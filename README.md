@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nkay 👋
 
-<!--
-**nkay-quant/nkay-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | Aspiring Quant Developer
 
-Here are some ideas to get you started:
+I’m currently building systems that combine finance, data, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Quantitative Trading Systems
+- Python for Financial Analysis
+- Strategy Backtesting
+- Secure Trading Infrastructure
+
+## Projects
+- Quant Trading Research Project
+
+## Tools
+Python • Pandas • Git • Data Analysis
+
