@@ -1,4 +1,4 @@
-# Hi, I'm Nkay 👋
+# Hi, I'm Kurtis 👋
 
 Cybersecurity Student | Aspiring Quant Developer
 
